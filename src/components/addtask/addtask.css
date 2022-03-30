@@ -1,0 +1,30 @@
+.heading{
+    background-color: palevioletred;
+    padding: 10px;
+    margin: 0 auto;
+    color: white;
+}
+.FormBox{
+    background-color:#FBD2CE;
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+    margin-top: 30px;
+    border-radius: 20px;
+    box-shadow: 4px 5px 4px 5px solid palevioletred;
+    padding: 10px;
+}
+.btn3{
+ 
+    background-color: white;
+    font-weight: bold;
+    border: none;
+
+}
+.btn4{
+    margin-top: 20px;
+    background-color: white;
+    font-weight: bold;
+    border: none;
+
+}
